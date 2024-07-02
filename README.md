@@ -1,2 +1,2 @@
-# Flix-music
-Flixify music is a public music website in beta, taken off of the idea of "NinjaStelthy"
+# Flix-music😎
+FlixMusic is an awesome music website to hear all the latest songs! 
